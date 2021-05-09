@@ -13,12 +13,14 @@ Travelling Salesman Problem solver using Genetic Algorithm approach
 ## Result
 
 1. Yogyakarta11 or yk11 dataset
-![alt text](https://github.com/dholigum/tsp-genetic-algorithm/blob/master/result/yk11_fitness_score.png?raw=true)
-![alt text](https://github.com/dholigum/tsp-genetic-algorithm/blob/master/result/yk11_map_solver.png?raw=true)
+yk11 fitness score            |  yk11 map solver
+:-------------------------:|:-------------------------:
+![yk11 fitness score](https://github.com/dholigum/tsp-genetic-algorithm/blob/master/result/yk11_fitness_score.png?raw=true)  |  ![yk11 map solver](https://github.com/dholigum/tsp-genetic-algorithm/blob/master/result/yk11_map_solver.png?raw=true)
 
 2. Berlin52 or berlin52 dataset
-![alt text](https://github.com/dholigum/tsp-genetic-algorithm/blob/master/result/berlin52_fitness_scorr.png?raw=true)
-![alt text](https://github.com/dholigum/tsp-genetic-algorithm/blob/master/result/berlin52_map_solve.png?raw=true)
+berlin52 fitness score            |  berlin52 map solver
+:-------------------------:|:-------------------------:
+![berlin52 fitness score](https://github.com/dholigum/tsp-genetic-algorithm/blob/master/result/berlin52_fitness_scorr.png?raw=true)  |  ![berlin52 map solver](https://github.com/dholigum/tsp-genetic-algorithm/blob/master/result/berlin52_map_solve.png?raw=true)
 
 ## TODO Next
 
